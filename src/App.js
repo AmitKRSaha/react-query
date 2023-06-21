@@ -3,6 +3,7 @@ import "./App.css";
 
 import { QueryClient, QueryClientProvider } from 'react-query'
 import { ReactQueryDevtools } from 'react-query/devtools'
+// import Test from "./Test";
 
 const queryClient = new QueryClient();
 
